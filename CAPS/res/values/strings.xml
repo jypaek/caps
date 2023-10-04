@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, CellidToGps!</string>
+    <string name="app_name">CellidToGps</string>
+
+    <string name="exit_label">Exit</string>
+    <string name="exit_shortcut">x</string>    
+    <string name="settings_label">Settings</string>
+    <string name="settings_title">My settings</string>
+    <string name="settings_shortcut">s</string>
+    
+    <string name="gps_title">Gps</string>
+    <string name="gps_summary">Use gps</string>
+    <string name="log_title">Log</string>
+    <string name="log_summary">Log to file</string>
+    <string name="save_db_title">Save DB</string>
+    <string name="save_db_summary">Save DB to file</string>
+    <string name="load_db_title">Load DB</string>
+    <string name="load_db_summary">Load DB from file</string>      
+</resources>

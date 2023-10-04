@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+	<CheckBoxPreference
+		android:key="gps"
+		android:title="@string/gps_title"
+		android:summary="@string/gps_summary"
+		android:defaultValue="false" />
+	<CheckBoxPreference
+		android:key="log"
+		android:title="@string/log_title"
+		android:summary="@string/log_summary"
+		android:defaultValue="true" />	
+	<CheckBoxPreference
+		android:key="save_db"
+		android:title="@string/save_db_title"
+		android:summary="@string/save_db_summary"
+		android:defaultValue="false" />
+	<CheckBoxPreference
+		android:key="load_db"
+		android:title="@string/load_db_title"
+		android:summary="@string/load_db_summary"
+		android:defaultValue="true" />				
+</PreferenceScreen>
